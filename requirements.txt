@@ -1,0 +1,8 @@
+streamlit
+openai-whisper
+deep-translator
+edge-tts
+yt-dlp
+pandas
+requests
+python-dotenv
