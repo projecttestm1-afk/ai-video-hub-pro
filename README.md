@@ -170,3 +170,7 @@ Real-world analytics workflow
 Developed as a portfolio project focused on: Automation, Data analytics, and Practical ETL systems.
 
 ⭐ If you find this useful — consider starring the repo!
+
+
+https://github.com/user-attachments/assets/773ba16f-fdef-480f-8bae-45e4835237f0
+
