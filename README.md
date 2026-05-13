@@ -171,6 +171,9 @@ Developed as a portfolio project focused on: Automation, Data analytics, and Pra
 
 ⭐ If you find this useful — consider starring the repo!
 
-https://github.com/user-attachments/assets/773ba16f-fdef-480f-8bae-45e4835237f0
+<div align="center">
+  <video src="[https://github.com/user-attachments/assets/773ba16f-fdef-480f-8bae-45e4835237f0](https://github.com/user-attachments/assets/773ba16f-fdef-480f-8bae-45e4835237f0)" width="100%" controls muted autoplay loop>
+  </video>
+</div>
 
 
