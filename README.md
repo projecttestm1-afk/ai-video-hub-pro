@@ -174,7 +174,7 @@ Developed as a portfolio project focused on: Automation, Data analytics, and Pra
 
 Demo:
 https://github.com/user-attachments/assets/771774e9-a540-45aa-be23-012c3afae5f7
-https://github.com/user-attachments/assets/771774e9-a540-45aa-be23-012c3afae5f7.mp4
+<video src="https://github.com/user-attachments/assets/771774e9-a540-45aa-be23-012c3afae5f7" controls="controls" style="max-width: 100%;"></video>
 
 
 
