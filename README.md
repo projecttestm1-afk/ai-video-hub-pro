@@ -171,8 +171,8 @@ Developed as a portfolio project focused on: Automation, Data analytics, and Pra
 
 ⭐ If you find this useful — consider starring the repo!
 
-<video src="https://github.com/user-attachments/assets/e01d2c85-0ff1-4c01-a082-ae370c0cbb6f" controls="controls" width="100%"></video>
 
+<video src="[https://github.com/user-attachments/assets/e01d2c85-0ff1-4c01-a082-ae370c0cbb6f]" controls width="700"></video>
 
 
 
